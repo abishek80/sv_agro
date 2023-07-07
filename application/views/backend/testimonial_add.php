@@ -1,9 +1,9 @@
 <div class="bg-light py-5">
     <div class="container">
         <div class="d-flex justify-content-between mb-4 align-items-center">
-            <h4 class="mb-0">Add Gallery</h5>
+            <h4 class="mb-0">Add Testimonial</h5>
             <div>
-                <a href="<?php echo base_url(); ?>admin/gallery_list" class="fw-bold px-5 py-2 bg-white rounded-3">Go Back</a>
+                <a href="<?php echo base_url(); ?>admin/testimonial_list" class="fw-bold px-5 py-2 bg-white rounded-3">Go Back</a>
             </div>
         </div>
         <div class="bg-white rounded-3 p-5">

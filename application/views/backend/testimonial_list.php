@@ -2,10 +2,10 @@
     <div class="container">
         <div class="d-flex justify-content-between mb-4 align-items-center">
             <a href="#">
-                <h4 class="mb-0"><i class="fa fa-home me-1"></i> Product List</h4>
+                <h4 class="mb-0"><i class="fa fa-home me-1"></i> Testimonial List</h4>
             </a>
             <div>
-                <a href="<?php echo base_url(); ?>admin/product_add" class="fw-bold px-5 py-2 bg-white rounded-3">Add Product</a>
+                <a href="<?php echo base_url(); ?>admin/testimonial_add" class="fw-bold px-5 py-2 bg-white rounded-3">Add Testimonial</a>
             </div>
         </div>
         <div class="bg-white rounded-3 p-3">

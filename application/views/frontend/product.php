@@ -14,7 +14,7 @@
 
 
 <!-- Service Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Our Products</p>
@@ -22,7 +22,7 @@
         </div>
         <div class="row g-3">
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -37,7 +37,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -52,7 +52,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -67,7 +67,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -82,7 +82,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -97,7 +97,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -112,7 +112,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -127,7 +127,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -142,7 +142,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -157,7 +157,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -172,7 +172,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -187,7 +187,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-light p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -208,7 +208,7 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Client's Review</p>

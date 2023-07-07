@@ -14,7 +14,7 @@
 
 
 <!-- Facts Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Why Choose Us!</p>
@@ -58,7 +58,7 @@
 
 
 <!-- Contact Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Contact Us</p>

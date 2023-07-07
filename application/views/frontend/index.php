@@ -61,7 +61,7 @@
 
 
 <!-- About Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -108,7 +108,7 @@
 
 
 <!-- Facts Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Why Choose Us!</p>
@@ -143,15 +143,15 @@
 
 
 <!-- Service Start -->
-<div class="container-xxl bg-light py-5 my-5">
+<div class="bg-light py-5 my-5">
     <div class="container py-5">
-        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+        <div class="text-center mx-auto mb-3 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Our Products</p>
-            <h1 class="display-6 mb-4">We Provide Best Professional Products</h1>
+            <h1 class="display-6 mb-0">We Provide Best Professional Products</h1>
         </div>
-        <div class="row g-3">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+        <div class="owl-carousel product-carousel">
+            <div class="pt-4 wow fadeInUp" data-wow-delay="0.1s">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-white p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -165,8 +165,8 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+            <div class="pt-4 wow fadeInUp" data-wow-delay="0.1s">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-white p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -180,8 +180,8 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+            <div class="pt-4 wow fadeInUp" data-wow-delay="0.1s">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-white p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -195,8 +195,8 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <a href="#">
+            <div class="pt-4 wow fadeInUp" data-wow-delay="0.1s">
+                <a href="<?php echo base_url(); ?>product_detail">
                     <div class="service-item d-flex flex-column bg-white p-3 pb-0 rounded-3">
                         <div class="position-relative">
                             <img class="img-fluid rounded-3" src="<?php echo base_url(); ?>themes/img/service-1.jpg" alt="">
@@ -210,11 +210,9 @@
                     </div>
                 </a>
             </div>
-            <div class="col-12">
-                <div class="mt-4 text-center">
-                    <a href="#" class="btn btn-primary py-3 px-5 wow fadeInUp" data-wow-delay="0.7s">View More</a>
-                </div>
-            </div>
+        </div>
+        <div class="mt-5 text-center">
+            <a href="<?php echo base_url(); ?>product" class="btn btn-primary py-3 px-5 wow fadeInUp" data-wow-delay="0.7s">View More</a>
         </div>
     </div>
 </div>
@@ -222,7 +220,7 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-xxl py-5">
+<div class="py-5">
     <div class="container">
         <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
             <p class="text-primary text-uppercase mb-2">Client's Review</p>
