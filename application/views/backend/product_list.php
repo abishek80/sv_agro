@@ -1,7 +1,7 @@
 <div class="bg-light py-5">
     <div class="container">
         <div class="d-flex justify-content-between mb-4 align-items-center">
-            <a href="#">
+            <a href="<?php echo base_url(); ?>admin/admin_home">
                 <h4 class="mb-0"><i class="fa fa-home me-1"></i> Product List</h4>
             </a>
             <div>
@@ -17,7 +17,7 @@
                         <th>Product Image</th>
                         <th>Product Name</th>
                         <th class="w-50">Product Desc</th>
-                        <th>Action</th>
+                        <th class="text-center">Action</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -34,7 +34,7 @@
                         <td>
                             <div class="d-flex gap-3 justify-content-center">
                                 <div><a href="#">Edit</a></div>
-                                <div><a href="#">Delect</a></div>
+                                <div><a href="#">Delete</a></div>
                             </div>
                         </td>
                     </tr>

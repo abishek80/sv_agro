@@ -14,16 +14,12 @@
                         <input id="product_code" code="product_code" type="text" placeholder="Enter Product Code" class="border rounded-3 px-4 py-2 w-100">
                     </div>
                     <div class="col-lg-6 col-md-6">
+                        <p class="mb-2">Product Image <span class="ms-2 text-danger">*</span></p>
+                        <input id="product_img" name="product_img" type="file" placeholder="Choose Product Image" class="border rounded-3 px-4 py-2 w-100">
+                    </div>
+                    <div class="col-lg-6 col-md-6">
                         <p class="mb-2">Product Name <span class="ms-2 text-danger">*</span></p>
                         <input id="product_name" name="product_name" type="text" placeholder="Enter Product Name" class="border rounded-3 px-4 py-2 w-100">
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Price <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_price" name="product_price" type="number" placeholder="Enter Product Price" class="border rounded-3 px-4 py-2 w-100">
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Image <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_img" name="product_img" type="file" placeholder="Enter Product Image" class="border rounded-3 px-4 py-2 w-100">
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <p class="mb-2">Product Description <span class="ms-2 text-danger">*</span></p>

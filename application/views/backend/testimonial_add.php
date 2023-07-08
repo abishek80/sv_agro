@@ -10,24 +10,20 @@
             <form action="">
                 <div class="row g-4">
                     <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Code <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_code" code="product_code" type="text" placeholder="Enter Product Code" class="border rounded-3 px-4 py-2 w-100">
+                        <p class="mb-2">Client Name <span class="ms-2 text-danger">*</span></p>
+                        <input id="product_code" code="product_code" type="text" placeholder="Enter Client Name" class="border rounded-3 px-4 py-2 w-100">
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Name <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_name" name="product_name" type="text" placeholder="Enter Product Name" class="border rounded-3 px-4 py-2 w-100">
+                        <p class="mb-2">Client Position <span class="ms-2 text-danger">*</span></p>
+                        <input id="product_name" name="product_name" type="text" placeholder="Enter Client Position" class="border rounded-3 px-4 py-2 w-100">
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Price <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_price" name="product_price" type="number" placeholder="Enter Product Price" class="border rounded-3 px-4 py-2 w-100">
+                        <p class="mb-2">Client Image <span class="ms-2 text-danger">*</span></p>
+                        <input id="product_img" name="product_img" type="file" placeholder="Choose Client Image" class="border rounded-3 px-4 py-2 w-100">
                     </div>
                     <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Image <span class="ms-2 text-danger">*</span></p>
-                        <input id="product_img" name="product_img" type="file" placeholder="Enter Product Image" class="border rounded-3 px-4 py-2 w-100">
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <p class="mb-2">Product Description <span class="ms-2 text-danger">*</span></p>
-                        <textarea id="product_desc" name="product_desc" type="text" placeholder="Enter Product Description" rows="3" class="border rounded-3 px-4 py-2 w-100"></textarea>
+                        <p class="mb-2">Review Content <span class="ms-2 text-danger">*</span></p>
+                        <textarea id="product_desc" name="product_desc" type="text" placeholder="Enter Review Content" rows="3" class="border rounded-3 px-4 py-2 w-100"></textarea>
                     </div>
                     <div class="col-12">
                         <div class="mt-3 d-flex justify-content-end gap-3">
